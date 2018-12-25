@@ -1,0 +1,10 @@
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\bin\Debug\yapay_bagisiklik.exe.config
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\bin\Debug\yapay_bagisiklik.exe
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\bin\Debug\yapay_bagisiklik.pdb
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\obj\Debug\yapay_bagisiklik.csprojAssemblyReference.cache
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\obj\Debug\yapay_bagisiklik.Form1.resources
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\obj\Debug\yapay_bagisiklik.Properties.Resources.resources
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\obj\Debug\yapay_bagisiklik.csproj.GenerateResource.cache
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\obj\Debug\yapay_bagisiklik.csproj.CoreCompileInputs.cache
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\obj\Debug\yapay_bagisiklik.exe
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\obj\Debug\yapay_bagisiklik.pdb
