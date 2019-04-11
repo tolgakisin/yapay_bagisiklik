@@ -8,3 +8,13 @@ C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\obj\Debug\yapay_ba
 C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\obj\Debug\yapay_bagisiklik.csproj.CoreCompileInputs.cache
 C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\obj\Debug\yapay_bagisiklik.exe
 C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\obj\Debug\yapay_bagisiklik.pdb
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\bin\Debug\LiveCharts.dll
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\bin\Debug\LiveCharts.pdb
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\bin\Debug\LiveCharts.xml
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\tolga\source\repos\yapay_bagisiklik\yapay_bagisiklik\obj\Debug\yapay_bagisiklik.csproj.CopyComplete
