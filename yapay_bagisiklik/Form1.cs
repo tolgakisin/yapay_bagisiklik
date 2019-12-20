@@ -337,11 +337,29 @@ namespace yapay_bagisiklik {
                         dgt.Rows.Clear();
                         dgt.Refresh();
                         break;
-                    
                 }
-                label15.Text = "";
-                label16.Text = "";
             }
+            label15.Text = "";
+            label16.Text = "";
+
+            x = 0;
+            y = 0;
+            fonksiyon = 0;
+            fitness = 0;
+
+            klon = 0;
+            mutasyon = 0;
+
+            baslangicPopulasyonu = 0;
+            nValue = 0;
+            betaValue = 0;
+            iterasyonSayisi = 0;
+            maxFitness = 0;
+            maxX1 = 0;
+            maxY1 = 0;
+            maxIter = 0;
+
+            cartesianChart1.Series = null;
         }
     }
 }
